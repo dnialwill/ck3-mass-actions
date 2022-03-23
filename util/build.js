@@ -3,6 +3,10 @@ const fs = require("fs").promises;
 build();
 
 async function build() {
+  await createDescriptorModFiles();
+}
+
+async function createDescriptorModFiles() {
   console.log("Building app...");
 
   try {
