@@ -21,5 +21,14 @@
   "homepage": "https://github.com/dnialwill/ck3-mass-actions#readme",
   "devDependencies": {
     "prettier": "^2.6.0"
+  },
+  "ck3": {
+    "modName": "Mass Actions",
+    "gameVersion": "1.5.1.1",
+    "modTags": [
+      "Character Interactions",
+      "Decisions",
+      "Gameplay"
+    ]
   }
 }
