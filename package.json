@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/dnialwill/ck3-mass-actions/issues"
   },
-  "homepage": "https://github.com/dnialwill/ck3-mass-actions#readme"
+  "homepage": "https://github.com/dnialwill/ck3-mass-actions#readme",
+  "devDependencies": {
+    "prettier": "^2.6.0"
+  }
 }
