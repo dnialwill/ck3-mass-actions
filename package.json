@@ -1,0 +1,22 @@
+{
+  "name": "ck3-mass-actions",
+  "version": "0.0.1-prealpha.1",
+  "description": "A simple mod for Crusader Kings III",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnialwill/ck3-mass-actions.git"
+  },
+  "keywords": [
+    "crusader-kings-iii"
+  ],
+  "author": "dnialwill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnialwill/ck3-mass-actions/issues"
+  },
+  "homepage": "https://github.com/dnialwill/ck3-mass-actions#readme"
+}
